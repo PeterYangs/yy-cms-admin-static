@@ -1,0 +1,1 @@
+# yy-cms-admin-static
